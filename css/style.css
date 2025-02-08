@@ -895,6 +895,18 @@
         margin: 20px;
         width: 65%;
       }
+              .titlee{
+        margin-left: 10px;
+        padding-top: 10px;
+      }
+      .paragragh{
+        margin-left: 10px;
+        padding-top: 10px;    
+      }
+
+      .btn{
+        margin-left: 10px;
+      }
     }
   
     .chefs .container {
